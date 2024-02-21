@@ -3,19 +3,19 @@ This project demonstrates an Admission Form implemented in Python using the Tkin
 
 # The form collects the following information:
 
-# - Name of Candidate
-# - Father’s Name
-# - Mother’s Name
-# - Date of Birth
-# - Gender
-# - Religion
-# - Caste
-# - Address
-# - Local Guardian
-# - Home Phone Number
-# - Own Mobile Number
-# - Nationality
-# - Subject (Field of Study)
+- Name of Candidate
+- Father’s Name
+- Mother’s Name
+- Date of Birth
+- Gender
+- Religion
+- Caste
+- Address
+- Local Guardian
+- Home Phone Number
+- Own Mobile Number
+- Nationality
+- Subject (Field of Study)
 
 # Features
 # -Front-End:
